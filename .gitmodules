@@ -1,0 +1,6 @@
+[submodule "face-react"]
+	path = face-react
+	url = https://github.com/specfocus/face-react.git
+[submodule "face-uno"]
+	path = face-uno
+	url = https://github.com/specfocus/face-uno.git
