@@ -19,3 +19,12 @@
 [submodule "face-blazor"]
 	path = face-blazor
 	url = https://github.com/specfocus/face-blazor.git
+[submodule "face-wasm"]
+	path = face-wasm
+	url = https://github.com/specfocus/face-wasm.git
+[submodule "face-svelte"]
+	path = face-svelte
+	url = https://github.com/specfocus/face-svelte.git
+[submodule "face-styled-components"]
+	path = face-styled-components
+	url = https://github.com/specfocus/face-styled-components.git
