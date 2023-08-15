@@ -34,3 +34,6 @@
 [submodule "face-react-icons"]
 	path = face-react-icons
 	url = https://github.com/specfocus/face-react-icons.git
+[submodule "face-react-components"]
+	path = face-react-components
+	url = https://github.com/specfocus/face-react-components.git
