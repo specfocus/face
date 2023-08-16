@@ -88,3 +88,27 @@
 [submodule "resources/hackathon-figma-plugin"]
 	path = resources/hackathon-figma-plugin
 	url = https://github.com/mui/hackathon-figma-plugin.git
+[submodule "WinUI-Gallery"]
+	path = WinUI-Gallery
+	url = https://github.com/microsoft/WinUI-Gallery.git
+[submodule "resources/fluentui-blazor"]
+	path = resources/fluentui-blazor
+	url = https://github.com/microsoft/fluentui-blazor.git
+[submodule "resources/fluentui"]
+	path = resources/fluentui
+	url = https://github.com/microsoft/fluentui.git
+[submodule "resources/fluentui-contrib"]
+	path = resources/fluentui-contrib
+	url = https://github.com/microsoft/fluentui-contrib.git
+[submodule "resources/fluentui-apple"]
+	path = resources/fluentui-apple
+	url = https://github.com/microsoft/fluentui-apple.git
+[submodule "resources/fluentui-emoji"]
+	path = resources/fluentui-emoji
+	url = https://github.com/microsoft/fluentui-emoji.git
+[submodule "resources/fluentui-react-native"]
+	path = resources/fluentui-react-native
+	url = https://github.com/microsoft/fluentui-react-native.git
+[submodule "resources/fluentui-system-icons"]
+	path = resources/fluentui-system-icons
+	url = https://github.com/microsoft/fluentui-system-icons.git
