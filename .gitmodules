@@ -37,3 +37,54 @@
 [submodule "face-react-components"]
 	path = face-react-components
 	url = https://github.com/specfocus/face-react-components.git
+[submodule "resources/material-ui"]
+	path = resources/material-ui
+	url = https://github.com/mui/material-ui.git
+[submodule "resources/grommet"]
+	path = resources/grommet
+	url = https://github.com/grommet/grommet.git
+[submodule "resources/react-cupertino"]
+	path = resources/react-cupertino
+	url = https://github.com/react-cupertino/react-cupertino.git
+[submodule "resources/mui-toolpad"]
+	path = resources/mui-toolpad
+	url = https://github.com/mui/mui-toolpad.git
+[submodule "resources/mui-public"]
+	path = resources/mui-public
+	url = https://github.com/mui/mui-public.git
+[submodule "resources/mui-x"]
+	path = resources/mui-x
+	url = https://github.com/mui/mui-x.git
+[submodule "resources/mui-docs"]
+	path = resources/mui-docs
+	url = https://github.com/mui/mui-docs.git
+[submodule "resources/mui-argos"]
+	path = resources/mui-argos
+	url = https://github.com/mui/mui-argos.git
+[submodule "resources/tech-challenge-design-engineer"]
+	path = resources/tech-challenge-design-engineer
+	url = https://github.com/mui/tech-challenge-design-engineer.git
+[submodule "resources/workshop-joy-datagrid"]
+	path = resources/workshop-joy-datagrid
+	url = https://github.com/mui/workshop-joy-datagrid.git
+[submodule "resources/mui-design-kits"]
+	path = resources/mui-design-kits
+	url = https://github.com/mui/mui-design-kits.git
+[submodule "resources/material-ui-docs"]
+	path = resources/material-ui-docs
+	url = https://github.com/mui/material-ui-docs.git
+[submodule "resources/tech-challenge-full-stack"]
+	path = resources/tech-challenge-full-stack
+	url = https://github.com/mui/tech-challenge-full-stack.git
+[submodule "resources/tech-challenge-react"]
+	path = resources/tech-challenge-react
+	url = https://github.com/mui/tech-challenge-react.git
+[submodule "resources/.github"]
+	path = resources/.github
+	url = https://github.com/mui/.github.git
+[submodule "resources/material-ui-pickers"]
+	path = resources/material-ui-pickers
+	url = https://github.com/mui/material-ui-pickers.git
+[submodule "resources/hackathon-figma-plugin"]
+	path = resources/hackathon-figma-plugin
+	url = https://github.com/mui/hackathon-figma-plugin.git
