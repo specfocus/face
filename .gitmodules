@@ -1,27 +1,6 @@
 [submodule "face-react"]
 	path = face-react
 	url = https://github.com/specfocus/face-react.git
-[submodule "face-uno"]
-	path = face-uno
-	url = https://github.com/specfocus/face-uno.git
-[submodule "face-unity"]
-	path = face-unity
-	url = https://github.com/specfocus/face-unity.git
-[submodule "face-wpf"]
-	path = face-wpf
-	url = https://github.com/specfocus/face-wpf.git
-[submodule "face-winui3"]
-	path = face-winui3
-	url = https://github.com/specfocus/face-winui3.git
-[submodule "face-winform"]
-	path = face-winform
-	url = https://github.com/specfocus/face-winform.git
-[submodule "face-blazor"]
-	path = face-blazor
-	url = https://github.com/specfocus/face-blazor.git
-[submodule "face-wasm"]
-	path = face-wasm
-	url = https://github.com/specfocus/face-wasm.git
 [submodule "face-svelte"]
 	path = face-svelte
 	url = https://github.com/specfocus/face-svelte.git
@@ -88,9 +67,6 @@
 [submodule "resources/hackathon-figma-plugin"]
 	path = resources/hackathon-figma-plugin
 	url = https://github.com/mui/hackathon-figma-plugin.git
-[submodule "WinUI-Gallery"]
-	path = WinUI-Gallery
-	url = https://github.com/microsoft/WinUI-Gallery.git
 [submodule "resources/fluentui-blazor"]
 	path = resources/fluentui-blazor
 	url = https://github.com/microsoft/fluentui-blazor.git
