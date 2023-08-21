@@ -112,3 +112,6 @@
 [submodule "resources/fluentui-system-icons"]
 	path = resources/fluentui-system-icons
 	url = https://github.com/microsoft/fluentui-system-icons.git
+[submodule "resources/microsoft-ui-xaml"]
+	path = resources/microsoft-ui-xaml
+	url = https://github.com/microsoft/microsoft-ui-xaml.git
