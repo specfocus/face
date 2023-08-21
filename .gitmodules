@@ -88,3 +88,6 @@
 [submodule "resources/fluentui-system-icons"]
 	path = resources/fluentui-system-icons
 	url = https://github.com/microsoft/fluentui-system-icons.git
+[submodule "resources/WinUI-Gallery"]
+	path = resources/WinUI-Gallery
+	url = https://github.com/microsoft/WinUI-Gallery.git
