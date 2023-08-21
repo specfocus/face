@@ -1,42 +1,3 @@
-[submodule "face-react"]
-	path = face-react
-	url = https://github.com/specfocus/face-react.git
-[submodule "face-uno"]
-	path = face-uno
-	url = https://github.com/specfocus/face-uno.git
-[submodule "face-unity"]
-	path = face-unity
-	url = https://github.com/specfocus/face-unity.git
-[submodule "face-wpf"]
-	path = face-wpf
-	url = https://github.com/specfocus/face-wpf.git
-[submodule "face-winui3"]
-	path = face-winui3
-	url = https://github.com/specfocus/face-winui3.git
-[submodule "face-winform"]
-	path = face-winform
-	url = https://github.com/specfocus/face-winform.git
-[submodule "face-blazor"]
-	path = face-blazor
-	url = https://github.com/specfocus/face-blazor.git
-[submodule "face-wasm"]
-	path = face-wasm
-	url = https://github.com/specfocus/face-wasm.git
-[submodule "face-svelte"]
-	path = face-svelte
-	url = https://github.com/specfocus/face-svelte.git
-[submodule "face-styled-components"]
-	path = face-styled-components
-	url = https://github.com/specfocus/face-styled-components.git
-[submodule "face-svg-icons"]
-	path = face-svg-icons
-	url = https://github.com/specfocus/face-svg-icons.git
-[submodule "face-react-icons"]
-	path = face-react-icons
-	url = https://github.com/specfocus/face-react-icons.git
-[submodule "face-react-components"]
-	path = face-react-components
-	url = https://github.com/specfocus/face-react-components.git
 [submodule "resources/material-ui"]
 	path = resources/material-ui
 	url = https://github.com/mui/material-ui.git
@@ -88,9 +49,6 @@
 [submodule "resources/hackathon-figma-plugin"]
 	path = resources/hackathon-figma-plugin
 	url = https://github.com/mui/hackathon-figma-plugin.git
-[submodule "WinUI-Gallery"]
-	path = WinUI-Gallery
-	url = https://github.com/microsoft/WinUI-Gallery.git
 [submodule "resources/fluentui-blazor"]
 	path = resources/fluentui-blazor
 	url = https://github.com/microsoft/fluentui-blazor.git
@@ -115,3 +73,24 @@
 [submodule "resources/microsoft-ui-xaml"]
 	path = resources/microsoft-ui-xaml
 	url = https://github.com/microsoft/microsoft-ui-xaml.git
+[submodule "resources/WinUI-Gallery"]
+	path = resources/WinUI-Gallery
+	url = https://github.com/microsoft/WinUI-Gallery.git
+[submodule "node/packages/face-react"]
+	path = node/packages/face-react
+	url = https://github.com/specfocus/face-react.git
+[submodule "node/packages/face-react-components"]
+	path = node/packages/face-react-components
+	url = https://github.com/specfocus/face-react-components.git
+[submodule "node/packages/face-styled-components"]
+	path = node/packages/face-styled-components
+	url = https://github.com/specfocus/face-styled-components.git
+[submodule "node/packages/face-react-icons"]
+	path = node/packages/face-react-icons
+	url = https://github.com/specfocus/face-react-icons.git
+[submodule "node/packages/face-svg-icons"]
+	path = node/packages/face-svg-icons
+	url = https://github.com/specfocus/face-svg-icons.git
+[submodule "node/packages/face-svelte"]
+	path = node/packages/face-svelte
+	url = https://github.com/specfocus/face-svelte.git
